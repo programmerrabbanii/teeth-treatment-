@@ -1,0 +1,80 @@
+
+
+  [
+    {
+      "id": 1,
+      "name": "Teeth Whitening",
+      "description": "Our professional teeth whitening service helps you achieve a brighter, whiter smile by removing stains and discoloration caused by coffee, tea, smoking, and other factors. This safe and effective treatment is performed using advanced techniques to ensure lasting results.",
+      "image": "https://i.ibb.co.com/Rym27tw/post-03.jpg",
+      "cost": "$150",
+      "buttonText": "Checkout More",
+      "detailsUrl": "/services/teeth-whitening"
+    },
+    {
+      "id": 2,
+      "name": "Dental Implants",
+      "description": "Dental implants are a permanent solution to replace missing teeth, providing a natural look and feel. Our expert team ensures the highest level of care, offering durable and functional implants that restore your ability to chew, speak, and smile with confidence.",
+      "image": "https://i.ibb.co.com/hMGLwVT/post-02.jpg",
+      "cost": "$1200",
+      "buttonText": "Checkout More",
+      "detailsUrl": "/services/dental-implants"
+    },
+    {
+      "id": 3,
+      "name": "Orthodontics",
+      "description": "Our orthodontic services include braces and clear aligners designed to straighten teeth and correct bite issues. We offer personalized treatment plans for children, teens, and adults to ensure healthy, properly aligned teeth and improved oral health.",
+      "image": "https://i.ibb.co.com/9HyTwbM/post-01.jpg",
+      "cost": "$800",
+      "buttonText": "Checkout More",
+      "detailsUrl": "/services/orthodontics"
+    },
+    {
+      "id": 4,
+      "name": "Root Canal Therapy",
+      "description": "Our root canal therapy is designed to save your natural teeth by removing infected pulp and sealing the tooth to prevent further decay. This pain-free procedure is performed with precision and care to restore your tooth's functionality and health.",
+      "image": "https://i.ibb.co.com/zrbTb82/gallery-img-06.jpg",
+      "cost": "$500",
+      "buttonText": "Checkout More",
+      "detailsUrl": "/services/root-canal"
+    },
+    {
+      "id": 5,
+      "name": "Teeth Cleaning",
+      "description": "Our professional teeth cleaning service removes plaque, tartar, and stains from your teeth, ensuring they remain healthy and free from cavities. Regular cleaning also improves your overall oral health.",
+      "image": "https://i.ibb.co.com/WGPZBwy/gallery-img-05.jpg",
+      "cost": "$100",
+      "buttonText": "Checkout More",
+      "detailsUrl": "/services/teeth-cleaning"
+    },
+    {
+      "id": 6,
+      "name": "Cosmetic Dentistry",
+      "description": "Enhance your smile with our cosmetic dentistry services, including veneers, bonding, and contouring. We help improve the appearance of your teeth and restore confidence in your smile.",
+      "image": "https://i.ibb.co.com/bRvXfPg/gallery-img-04.jpg",
+      "cost": "$1000",
+      "buttonText": "Checkout More",
+      "detailsUrl": "/services/cosmetic-dentistry"
+    },
+    {
+      "id": 7,
+      "name": "Pediatric Dentistry",
+      "description": "We provide pediatric dentistry services to ensure the healthy development of your child's teeth. Our team is trained to handle children with care, ensuring they are comfortable and relaxed during their visit.",
+      "image": "https://i.ibb.co.com/2gGNJD0/gallery-img-02.jpg",
+      "cost": "$250",
+      "buttonText": "Checkout More",
+      "detailsUrl": "/services/pediatric-dentistry"
+    },
+    {
+      "id": 8,
+      "name": "Gum Disease Treatment",
+      "description": "Our gum disease treatment services are designed to prevent and treat gum infections, which can lead to tooth loss if left untreated. We offer personalized plans to restore gum health and prevent future issues.",
+      "image": "https://i.ibb.co.com/cg2gPRd/gallery-img-01.jpg",
+      "cost": "$400",
+      "buttonText": "Checkout More",
+      "detailsUrl": "/services/gum-disease"
+    }
+  ]
+  
+  
+
+  

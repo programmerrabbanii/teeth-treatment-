@@ -1,9 +1,7 @@
-import React from 'react';
-
 const Profile = () => {
-    return (
+       return (
         <div>
-            this is profile
+            this is profile 
         </div>
     );
 };
